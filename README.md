@@ -1,6 +1,8 @@
 # Albert Elmore
 
-Network engineer and systems builder based in Minneapolis. Most of the software here exists because I wanted a tool, system, or workflow that didn't already exist.
+Network engineer and systems builder based in Minneapolis. 
+
+Most of the software here exists because I wanted a tool, system, or workflow that didn't already exist.
 
 Currently interested in:
 
