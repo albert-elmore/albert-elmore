@@ -1,16 +1,29 @@
-## Hi there 👋
+# Albert Elmore
 
-<!--
-**albert-elmore/albert-elmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network engineer and systems builder based in Minneapolis.
 
-Here are some ideas to get you started:
+Currently interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Systems programming
+- Network automation
+- PowerPC Macintosh development
+- Z80 and CP/M systems
+- Communication systems
+- Creative computing
+
+## Selected Projects
+
+### PPC Apps
+Custom music and performance software written in C for Mac OS 9 on PowerPC hardware.
+
+### GBCom
+Cellular communications platform for Nintendo Game Boy.
+
+### Rusty Cycles
+Rust-based interpretation of TidalCycles.
+
+### PX8-Term
+Terminal improvements for the Epson PX-8 CP/M platform.
+
+### TI Choir
+Distributed 1-bit music system for Z80-based graphing calculators.
